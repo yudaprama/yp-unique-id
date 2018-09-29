@@ -1,6 +1,6 @@
 {
   "name": "yp-unique-id",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "repository": "https://github.com/yudaprama/yp-unique-id.git",
   "author": "Yuda Prama <yudapramad@gmail.com>",
