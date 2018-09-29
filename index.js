@@ -1,4 +1,4 @@
-export function uniqueId (len=64) =>  {
+export default function uniqueId (len=64) {
 	let chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 	let result = '';
 	while (len--) {
